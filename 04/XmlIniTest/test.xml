@@ -1,0 +1,12 @@
+<root>
+  <section1>
+    <entry1 Name="FirstEntry">one</entry1>
+    <entry2 Name="Second Entry">two</entry2>
+    <item Name="3rdEntry">three</item>
+    <item Name="Duplicate">four</item>
+    <item Name="Duplicate">five</item>
+  </section1>
+  <section2>
+    <entry1 Name="One">1</entry1>
+  </section2>
+</root>

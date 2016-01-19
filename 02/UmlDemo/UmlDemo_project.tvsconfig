@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.UmlDemo_Dialog" Type="System.String" Value="" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.UmlDemo" Type="System.String" Value="UmlDemo" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.UmlDemo_DataModule" Type="System.String" Value="" Category="General" IsBrowsable="False" />
+</TgConfig>

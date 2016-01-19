@@ -1,0 +1,61 @@
+body {
+   background: white;
+	color: black;
+	min-height: 100%;
+	font-family: verdana, arial, trebuchet, palatino, georgia, serif;
+	font-size: 90%;
+}
+
+#wrapper {
+   border-radius: 6px;
+	background: silver;
+	color: white;
+	border: 1px solid silver;
+   margin: 10 auto; /* 10 above, plus "auto" and centered */
+   width: 956px;
+   position: relative;
+}
+
+.banner {
+   border-radius: 6px;
+	border: 1px solid silver;
+	background: #FF9851;
+	padding: 5px;
+	color: white;
+	font-weight: bold;
+	letter-spacing: 0.3em;
+}
+
+.banner div {
+    color: white;	
+}
+
+.banner a {
+    color: white;	
+}
+
+.content-top {
+    border-radius: 6px;
+    color: #AA002D;
+    background: #FFC891;
+    padding: 1px 1px 1px 15px;        
+	 border: 1px solid silver;
+}
+
+.content {
+    border-radius: 6px;
+  	 color: black;
+    padding: 15px;        
+    min-height: 380px;
+	 border: 1px solid silver;
+    overflow: hidden;
+    background: white;
+}
+
+div {
+    padding: 0px;
+}    
+
+a  {
+  text-decoration: none;
+}
